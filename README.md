@@ -1,6 +1,5 @@
 # CMPG-323-Overview---32397798
 
-##
 Repository ‘CMPG 323 Overview’ is created and used as an Overview.
 Repository ‘CMPG 323 Project 2’ will be created and used for Project 2 assignments.
 Repository ‘CMPG 323 Project 3’ will be created and used for Project 3 assignments.
