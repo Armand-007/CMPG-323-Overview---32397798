@@ -17,3 +17,5 @@ These files will tell Github which files and folders to ignore when uploading pr
 The file .gitignore will be created and all the files that needs to be ignored when uploading projects to the repository will be added to the .gitignore file.
 
 ### Storage of credentials and sensitive information.
+Information and data will be protected by two step verification, special keys for users and a login system
+to only provide access to authorised users. 
