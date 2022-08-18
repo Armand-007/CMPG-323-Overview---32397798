@@ -10,7 +10,7 @@
 ### Diagram of project and repository context and how they are integrated.
 
 ### Branching strategy.
-
+For each repo I will have a main branch, Planning, Development, Testing, Issues and Release branches. Each repositorie will start at the Planning branch where the planning and analysis of the project is done. Afte Planning we will statr development of the project and testing as well, when testing is done the final issues and bug are addreses and fixed, all the branced will be mearges with the Release branch to test everything and to see if it work together and if there are any bugs and the Release branch will merge back with the Main Branch.
 ### .gitignore
 .gitignore files will be used in each project.
 These files will tell Github which files and folders to ignore when uploading projects to the repository.
