@@ -1,8 +1,8 @@
 # CMPG-323-Overview---32397798
 ### Repositories
 * Repository ‘CMPG 323 Overview’ is created and used as an Overview.
-* Repository ‘CMPG 323 Project 2’ will be created and used for Project 2 assignments.
-* Repository ‘CMPG 323 Project 3’ will be created and used for Project 3 assignments.
+* Repository ‘CMPG 323 Project 2’ is created and used for Project 2 assignments. Project 2 is about API Development and this repository contains the project filers and a description of what is done in the API project.
+* Repository ‘CMPG 323 Project 3’ is created and used for Project 3 assignments.
 * Repository ‘CMPG 323 Project 4’ will be created and used for Project 4 assignments.
 * Repository ‘CMPG 323 Project 5’ will be created and used for Project 5 assignments.
 
