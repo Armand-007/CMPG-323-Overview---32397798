@@ -4,7 +4,7 @@
 * Repository ‘CMPG 323 Project 2’ is created and used for Project 2 assignments. Project 2 is about API Development and this repository contains the project filers and a description of what is done in the API project.
 * Repository ‘CMPG 323 Project 3’ is created and used for Implementing reposetroty patterns. Project 3 is about Repository patterns where we created and connected the repository classes and interfaces with the database
 * Repository ‘CMPG 323 Project 4’ is greated and used for Project 4. In the project we used UIPath to automate a program and perform user acceptance testing.
-* Repository ‘CMPG 323 Project 5’ will be created and used for Project 5 assignments.
+* Repository ‘CMPG 323 Project 5’ is created for Project 5 where we used Power BI data mining and presenting information to our users.
 
 ---
 
